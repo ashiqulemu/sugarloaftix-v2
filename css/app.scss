@@ -197,7 +197,7 @@ body {
 // top bar css
 
 .topbar {
-    background: linear-gradient(90deg, #100d0b, #893642, #2c2a6e);
+    background:  black;
 
     .inner {
         display: flex;
@@ -295,7 +295,7 @@ body {
 
 .recent_blog {
     padding: 50px 0;
-    background: linear-gradient(0deg, #524f4f69, #e3b2815c);
+    background: linear-gradient(0deg, rgb(40 36 36 / 77%), rgb(0 0 0 / 75%));
     backdrop-filter: blur(5px);
 }
 
@@ -783,7 +783,7 @@ footer {
 
 .chairman {
     padding: 70px 0;
-    background: rgb(255 255 255 / 46%);
+    background: linear-gradient(0deg, rgb(40 36 36 / 77%), rgb(0 0 0 / 75%));
 
     img {
         border-radius: 25% 82% 35% 58% / 65% 82% 15% 38%;

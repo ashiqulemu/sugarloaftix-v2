@@ -151,7 +151,7 @@ body {
 }
 
 .topbar {
-  background: linear-gradient(90deg, #100d0b, #893642, #2c2a6e);
+  background: black;
 }
 .topbar .inner {
   display: flex;
@@ -225,7 +225,7 @@ body {
 
 .recent_blog {
   padding: 50px 0;
-  background: linear-gradient(0deg, rgba(82, 79, 79, 0.4117647059), rgba(227, 178, 129, 0.3607843137));
+  background: linear-gradient(0deg, rgba(40, 36, 36, 0.77), rgba(0, 0, 0, 0.75));
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
 }
@@ -610,7 +610,7 @@ footer .nav-item a:hover {
 
 .chairman {
   padding: 70px 0;
-  background: rgba(255, 255, 255, 0.46);
+  background: linear-gradient(0deg, rgba(40, 36, 36, 0.77), rgba(0, 0, 0, 0.75));
 }
 .chairman img {
   border-radius: 25% 82% 35% 58%/65% 82% 15% 38%;
