@@ -43,7 +43,7 @@ a {
     background: url('../images/footer-bg.png');
     background-size: 100% 100%;
     position: relative;
-    
+
     &:before {
         content: "";
         left: 0;
@@ -120,7 +120,7 @@ html {
     box-shadow: 0 4px 24px 0 #0000001a;
 
     .content {
-        padding: 30px;
+        padding: 18px 18px 30px 18px;
         background: #ffffff91;
         font-family: 'poppins-Light';
 
@@ -128,18 +128,18 @@ html {
             background: linear-gradient(58deg, black 58%, #f71414 0%);
             color: #fff;
             padding: 7px 14px;
-            letter-spacing: 5px;
+             
         }
 
         .title {
-            font-size: 27px;
+            font-size: 22px;
             margin: 12px 0 7px;
             color: #000;
             text-transform: capitalize;
-
             line-height: 1.2;
             font-family: Anton-Regular;
             letter-spacing: 1px;
+            min-height: 56px;
         }
 
         p {
@@ -197,7 +197,7 @@ body {
 // top bar css
 
 .topbar {
-    background:  black;
+    background: black;
 
     .inner {
         display: flex;
@@ -375,7 +375,7 @@ body {
     padding: 10px 0;
 }
 
- 
+
 
 .txt-gradient {
     background: linear-gradient(90deg, #dd5117, #d5475b, #3e3acc);

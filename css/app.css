@@ -90,7 +90,7 @@ html {
   box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.1019607843);
 }
 .card-style .content {
-  padding: 30px;
+  padding: 18px 18px 30px 18px;
   background: rgba(255, 255, 255, 0.568627451);
   font-family: "poppins-Light";
 }
@@ -98,16 +98,16 @@ html {
   background: linear-gradient(58deg, black 58%, #f71414 0%);
   color: #fff;
   padding: 7px 14px;
-  letter-spacing: 5px;
 }
 .card-style .content .title {
-  font-size: 27px;
+  font-size: 22px;
   margin: 12px 0 7px;
   color: #000;
   text-transform: capitalize;
   line-height: 1.2;
   font-family: Anton-Regular;
   letter-spacing: 1px;
+  min-height: 56px;
 }
 .card-style .content p {
   font-size: 15px;
